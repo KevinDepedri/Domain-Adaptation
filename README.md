@@ -1,4 +1,4 @@
-# <p align="center">Deep Learning - Unsupervised Domain Adaptation Project</p> 
+# <p align="center">Deep Learning - Unsupervised Domain Adaptation</p> 
 
 Unsupervised domain adaptation (UDA) is the task of training a statistical model on labeled data from a source domain to achieve better performance on data from a target domain, with access to only unlabeled data in the target domain.
 
